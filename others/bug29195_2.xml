@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document format="XmlOcaf" xmlns="http://www.opencascade.org/OCAF/XML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opencascade.org/OCAF/XML D:\Products\OCC720\opencascade-7.2.0\src\XmlOcafResource/XmlOcaf.xsd">
+ <info date="2018-01-26" schemav="0" DocVersion="9" objnb="44">
+  <iitem>Copyright: Open Cascade, 2001-2002</iitem>
+  <iitem>REFERENCE_COUNTER: 0</iitem>
+  <iitem>MODIFICATION_COUNTER: 1</iitem>
+ </info>
+ <comments/>
+ <label tag="0">
+  <TDataStd_Name id="1">D2</TDataStd_Name>
+  <label tag="1">
+   <label tag="1">
+    <TDataStd_Integer id="2">1112</TDataStd_Integer>
+    <label tag="1">
+     <TDataStd_Integer id="3">7777</TDataStd_Integer>
+    </label>
+    <label tag="2">
+     <TDataStd_Integer id="4">111193</TDataStd_Integer>
+     <TDataStd_Real id="5">0.12345</TDataStd_Real>
+     <TDataStd_AsciiString id="6">First_string</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="7">string3</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="2">
+    <TDataStd_Real id="8">345.98700000000002</TDataStd_Real>
+    <label tag="1">
+     <TDataStd_AsciiString id="9">string21</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="10">string22</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="11">string23</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="3">
+    <TDataStd_Real id="12">111.98699999999999</TDataStd_Real>
+    <label tag="1">
+     <TDataStd_AsciiString id="13">string31</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="14">string32</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="15">string33</TDataStd_AsciiString>
+     <TDataStd_Real id="16">0.1234589</TDataStd_Real>
+    </label>
+   </label>
+   <label tag="4">
+    <TDataStd_Real id="17">888.64099999999996</TDataStd_Real>
+    <label tag="1">
+     <TDataStd_Real id="18">0.98765432099999995</TDataStd_Real>
+    </label>
+    <label tag="2">
+     <TDataStd_Real id="19">0.123456789</TDataStd_Real>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="20">string43</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="5">
+    <TDataStd_Integer id="21">8993</TDataStd_Integer>
+    <label tag="1">
+     <TDataStd_AsciiString id="22">string51</TDataStd_AsciiString>
+     <TDataStd_Real id="23">0.12345678911000001</TDataStd_Real>
+    </label>
+    <label tag="2">
+     <TDataStd_Real id="24">0.33333333332999998</TDataStd_Real>
+     <TDataStd_AsciiString id="25">string52</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_Real id="26">0.55555555555500002</TDataStd_Real>
+    </label>
+   </label>
+   <label tag="6">
+    <TDataStd_Integer id="27">3333</TDataStd_Integer>
+    <label tag="1">
+     <TDataStd_Real id="28">0.111111111111</TDataStd_Real>
+     <TDataStd_AsciiString id="29">string61</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="30">string62</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="31">string63</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="7">
+    <label tag="1">
+     <TDataStd_AsciiString id="32">string71</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="33">string72</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="34">string73</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="8">
+    <label tag="1">
+     <TDataStd_AsciiString id="35">string81</TDataStd_AsciiString>
+     <TDataStd_Real id="36">0.444444444444</TDataStd_Real>
+    </label>
+    <label tag="2">
+     <TDataStd_Real id="37">0.55555555555500002</TDataStd_Real>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="38">string83</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="9">
+    <TDataStd_Name id="39">Example_of_Name1</TDataStd_Name>
+    <label tag="1">
+     <TDataStd_AsciiString id="40">test12.xml</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="41">string92</TDataStd_AsciiString>
+     <TDataStd_Real id="42">0.77777777699999995</TDataStd_Real>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="43">string93</TDataStd_AsciiString>
+     <TDataStd_Real id="44">0.77777777699999995</TDataStd_Real>
+    </label>
+   </label>
+  </label>
+ </label>
+ <shapes/>
+</document>

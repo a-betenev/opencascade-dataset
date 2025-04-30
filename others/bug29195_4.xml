@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document format="XmlOcaf" xmlns="http://www.opencascade.org/OCAF/XML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opencascade.org/OCAF/XML D:\Products\OCC720\opencascade-7.2.0\src\XmlOcafResource/XmlOcaf.xsd">
+ <info date="2018-01-26" schemav="0" DocVersion="9" objnb="46">
+  <iitem>Copyright: Open Cascade, 2001-2002</iitem>
+  <iitem>REFERENCE_COUNTER: 0</iitem>
+  <iitem>MODIFICATION_COUNTER: 1</iitem>
+ </info>
+ <comments/>
+ <label tag="0">
+  <TDataStd_Name id="1">D4</TDataStd_Name>
+  <label tag="1">
+   <label tag="1">
+    <TDataStd_Integer id="2">1112</TDataStd_Integer>
+    <label tag="1">
+     <TDataStd_Integer id="3">7777</TDataStd_Integer>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="4">First_string</TDataStd_AsciiString>
+     <TDataStd_Real id="5">0.12345</TDataStd_Real>
+     <TDataStd_Integer id="6">111193</TDataStd_Integer>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="7">string3</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="2">
+    <TDataStd_Real id="8">345.98700000000002</TDataStd_Real>
+    <label tag="1">
+     <TDataStd_AsciiString id="9">string21</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="10">string22</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="11">string23</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="3">
+    <TDataStd_Real id="12">111.98699999999999</TDataStd_Real>
+    <label tag="1">
+     <TDataStd_AsciiString id="13">string31</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="14">string32</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_Real id="15">0.1234589</TDataStd_Real>
+     <TDataStd_AsciiString id="16">string33</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="4">
+    <TDataStd_Real id="17">888.64099999999996</TDataStd_Real>
+    <label tag="1">
+     <TDataStd_Real id="18">0.98765432099999995</TDataStd_Real>
+    </label>
+    <label tag="2">
+     <TDataStd_Real id="19">0.123456789</TDataStd_Real>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="20">string43</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="5">
+    <TDataStd_Integer id="21">8993</TDataStd_Integer>
+    <label tag="1">
+     <TDataStd_Real id="22">0.12345678911000001</TDataStd_Real>
+     <TDataStd_AsciiString id="23">string51</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="24">test14.xml</TDataStd_AsciiString>
+     <TDataStd_Real id="25">0.33333333332999998</TDataStd_Real>
+     <TDataStd_Integer id="26">9999991</TDataStd_Integer>
+     <TNaming_NamedShape id="27" evolution="primitive">
+      <olds/>
+      <news>
+       <shape tshape="+34" index="1"/>
+      </news>
+     </TNaming_NamedShape>
+    </label>
+    <label tag="3">
+     <TDataStd_Real id="28">0.55555555555500002</TDataStd_Real>
+    </label>
+   </label>
+   <label tag="6">
+    <TDataStd_Integer id="29">3333</TDataStd_Integer>
+    <label tag="1">
+     <TDataStd_AsciiString id="30">string61</TDataStd_AsciiString>
+     <TDataStd_Real id="31">0.111111111111</TDataStd_Real>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="32">string62</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="33">string63</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="7">
+    <label tag="1">
+     <TDataStd_AsciiString id="34">string71</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_AsciiString id="35">string72</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="36">string73</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="8">
+    <label tag="1">
+     <TDataStd_Real id="37">0.444444444444</TDataStd_Real>
+     <TDataStd_AsciiString id="38">string81</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_Real id="39">0.55555555555500002</TDataStd_Real>
+    </label>
+    <label tag="3">
+     <TDataStd_AsciiString id="40">STRING_83</TDataStd_AsciiString>
+    </label>
+   </label>
+   <label tag="9">
+    <TDataStd_Name id="41">Example_of_Name1</TDataStd_Name>
+    <label tag="1">
+     <TDataStd_AsciiString id="42">string91</TDataStd_AsciiString>
+    </label>
+    <label tag="2">
+     <TDataStd_Real id="43">0.77777777699999995</TDataStd_Real>
+     <TDataStd_AsciiString id="44">string92</TDataStd_AsciiString>
+    </label>
+    <label tag="3">
+     <TDataStd_Real id="45">0.77777777699999995</TDataStd_Real>
+     <TDataStd_AsciiString id="46">string93</TDataStd_AsciiString>
+    </label>
+   </label>
+  </label>
+ </label>
+ <shapes>
+CASCADE Topology V2, (c) Matra-Datavision
+Locations 0
+Curve2ds 24
+1 0 0 1 0 
+1 0 0 1 0 
+1 10 0 0 -1 
+1 0 0 0 1 
+1 0 -10 1 0 
+1 0 0 1 0 
+1 0 0 0 -1 
+1 0 0 0 1 
+1 0 0 1 0 
+1 0 10 1 0 
+1 10 0 0 -1 
+1 10 0 0 1 
+1 0 -10 1 0 
+1 0 10 1 0 
+1 0 0 0 -1 
+1 10 0 0 1 
+1 0 0 0 1 
+1 0 0 1 0 
+1 10 0 0 1 
+1 0 0 1 0 
+1 0 0 0 1 
+1 0 10 1 0 
+1 10 0 0 1 
+1 0 10 1 0 
+Curves 12
+1 0 0 0 0 0 1 
+1 0 0 10 -0 1 0 
+1 0 10 0 0 0 1 
+1 0 0 0 -0 1 0 
+1 10 0 0 0 0 1 
+1 10 0 10 -0 1 0 
+1 10 10 0 0 0 1 
+1 10 0 0 -0 1 0 
+1 0 0 0 1 0 -0 
+1 0 0 10 1 0 -0 
+1 0 10 0 1 0 -0 
+1 0 10 10 1 0 -0 
+Polygon3D 0
+PolygonOnTriangulations 0
+Surfaces 6
+1 0 0 0 1 0 -0 0 0 1 0 -1 0 
+1 0 0 0 -0 1 0 0 0 1 1 0 -0 
+1 0 0 10 0 0 1 1 0 -0 -0 1 0 
+1 0 10 0 -0 1 0 0 0 1 1 0 -0 
+1 0 0 0 0 0 1 1 0 -0 -0 1 0 
+1 10 0 0 1 0 -0 0 0 1 0 -1 0 
+Triangulations 0
+
+TShapes 34
+Ve
+1e-007
+0 0 10
+0 0
+
+0101101
+*
+Ve
+1e-007
+0 0 0
+0 0
+
+0101101
+*
+Ed
+ 1e-007 1 1 0
+1  1 0 0 10
+2  1 1 0 0 10
+0 0 10 0
+2  2 2 0 0 10
+0 0 10 0
+0
+
+0101000
+-34 0 +33 0 *
+Ve
+1e-007
+0 10 10
+0 0
+
+0101101
+*
+Ed
+ 1e-007 1 1 0
+1  2 0 0 10
+2  3 1 0 0 10
+10 0 10 -10
+2  4 3 0 0 10
+0 0 0 10
+0
+
+0101000
+-31 0 +34 0 *
+Ve
+1e-007
+0 10 0
+0 0
+
+0101101
+*
+Ed
+ 1e-007 1 1 0
+1  3 0 0 10
+2  5 1 0 0 10
+0 -10 10 -10
+2  6 4 0 0 10
+0 0 10 0
+0
+
+0101000
+-31 0 +29 0 *
+Ed
+ 1e-007 1 1 0
+1  4 0 0 10
+2  7 1 0 0 10
+0 0 0 -10
+2  8 5 0 0 10
+0 0 0 10
+0
+
+0101000
+-29 0 +33 0 *
+Wi
+
+0101100
+-32 0 -30 0 +28 0 +27 0 *
+Fa
+0  1e-007 1 0
+
+0111000
++26 0 *
+Ve
+1e-007
+10 0 10
+0 0
+
+0101101
+*
+Ve
+1e-007
+10 0 0
+0 0
+
+0101101
+*
+Ed
+ 1e-007 1 1 0
+1  5 0 0 10
+2  9 6 0 0 10
+0 0 10 0
+2  10 2 0 0 10
+0 10 10 10
+0
+
+0101000
+-24 0 +23 0 *
+Ve
+1e-007
+10 10 10
+0 0
+
+0101101
+*
+Ed
+ 1e-007 1 1 0
+1  6 0 0 10
+2  11 6 0 0 10
+10 0 10 -10
+2  12 3 0 0 10
+10 0 10 10
+0
+
+0101000
+-21 0 +24 0 *
+Ve
+1e-007
+10 10 0
+0 0
+
+0101101
+*
+Ed
+ 1e-007 1 1 0
+1  7 0 0 10
+2  13 6 0 0 10
+0 -10 10 -10
+2  14 4 0 0 10
+0 10 10 10
+0
+
+0101000
+-21 0 +19 0 *
+Ed
+ 1e-007 1 1 0
+1  8 0 0 10
+2  15 6 0 0 10
+0 0 0 -10
+2  16 5 0 0 10
+10 0 10 10
+0
+
+0101000
+-19 0 +23 0 *
+Wi
+
+0101100
+-22 0 -20 0 +18 0 +17 0 *
+Fa
+0  1e-007 6 0
+
+0111000
++16 0 *
+Ed
+ 1e-007 1 1 0
+1  9 0 0 10
+2  17 2 0 0 10
+0 0 0 10
+2  18 5 0 0 10
+0 0 10 0
+0
+
+0101000
+-23 0 +33 0 *
+Ed
+ 1e-007 1 1 0
+1  10 0 0 10
+2  19 2 0 0 10
+10 0 10 10
+2  20 3 0 0 10
+0 0 10 0
+0
+
+0101000
+-24 0 +34 0 *
+Wi
+
+0101100
+-14 0 -22 0 +13 0 +32 0 *
+Fa
+0  1e-007 2 0
+
+0111000
++12 0 *
+Ed
+ 1e-007 1 1 0
+1  11 0 0 10
+2  21 4 0 0 10
+0 0 0 10
+2  22 5 0 0 10
+0 10 10 10
+0
+
+0101000
+-19 0 +29 0 *
+Ed
+ 1e-007 1 1 0
+1  12 0 0 10
+2  23 4 0 0 10
+10 0 10 10
+2  24 3 0 0 10
+0 10 10 10
+0
+
+0101000
+-21 0 +31 0 *
+Wi
+
+0101100
+-10 0 -18 0 +9 0 +28 0 *
+Fa
+0  1e-007 4 0
+
+0111000
++8 0 *
+Wi
+
+0101100
+-27 0 -10 0 +17 0 +14 0 *
+Fa
+0  1e-007 5 0
+
+0111000
++6 0 *
+Wi
+
+0101100
+-30 0 -9 0 +20 0 +13 0 *
+Fa
+0  1e-007 3 0
+
+0111000
++4 0 *
+Sh
+
+0101100
+-25 0 +15 0 -11 0 +7 0 -5 0 +3 0 *
+So
+
+1100000
++2 0 *
+
+</shapes>
+</document>

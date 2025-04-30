@@ -1,0 +1,303 @@
+#VRML V2.0 utf8
+
+Collision {
+    collide FALSE
+    children [
+	Transform {
+	    scale	0.001 0.001 0.001
+	    children [
+		Group {
+		    children [
+			Group {
+			    children [
+				DEF _30c628a0 Group {
+				    children [
+					Group {
+					    children [
+						Shape {
+						    appearance
+							Appearance {
+							    material
+								Material {
+								    diffuseColor	0.2 0.6 0.6
+								}
+							}
+						    geometry
+							IndexedFaceSet {
+							    coord
+								Coordinate {
+								    point	[ 99900 9900 5355,
+										      99900 9900 5355,
+										      99900 9900 5355,
+										      99900 9900 5800,
+										      99900 9900 5800,
+										      99900 9900 5800,
+										      99900 9910 5355,
+										      99900 9910 5355,
+										      99900 9910 5355,
+										      99900 9910 5800,
+										      99900 9910 5800,
+										      99900 9910 5800,
+										      105760 9900 5355,
+										      105760 9900 5355,
+										      105760 9900 5355,
+										      105760 9900 5800,
+										      105760 9900 5800,
+										      105760 9900 5800,
+										      105760 9910 5355,
+										      105760 9910 5355,
+										      105760 9910 5355,
+										      105760 9910 5800,
+										      105760 9910 5800,
+										      105760 9910 5800 ]
+								}
+							    normal
+								Normal {
+								    vector	[ -1 0 0,
+										      0 -1 0,
+										      0 0 -1,
+										      -1 0 0,
+										      0 -1 0,
+										      0 0 1,
+										      -1 0 0,
+										      0 0 -1,
+										      0 1 0,
+										      -1 0 0,
+										      0 0 1,
+										      0 1 0,
+										      0 -1 0,
+										      0 0 -1,
+										      1 0 0,
+										      0 -1 0,
+										      0 0 1,
+										      1 0 0,
+										      0 0 -1,
+										      0 1 0,
+										      1 0 0,
+										      0 0 1,
+										      0 1 0,
+										      1 0 0 ]
+								}
+							    creaseAngle	0.5
+							    coordIndex	[ 0, 3, 6, -1, 3, 9, 6, -1,
+									      5, 16, 10, -1, 16, 21, 10, -1,
+									      17, 14, 23, -1, 14, 20, 23, -1,
+									      13, 2, 18, -1, 2, 7, 18, -1,
+									      1, 12, 4, -1, 12, 15, 4, -1,
+									      8, 11, 19, -1, 11, 22, 19, -1 ]
+							    normalIndex	[ 0, 3, 6, -1, 3, 9, 6, -1,
+									      5, 16, 10, -1, 16, 21, 10, -1,
+									      17, 14, 23, -1, 14, 20, 23, -1,
+									      13, 2, 18, -1, 2, 7, 18, -1,
+									      1, 12, 4, -1, 12, 15, 4, -1,
+									      8, 11, 19, -1, 11, 22, 19, -1 ]
+							}
+						}
+					    ]
+					},
+					Group {
+					    children [
+						Shape {
+						    appearance
+							Appearance {
+							    material
+								DEF _v2%1 Material {
+								    diffuseColor	0 0 0
+								}
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 99900 9900 5800,
+										      99900 9910 5800 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 105760 9900 5800,
+										      105760 9910 5800 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 99900 9900 5355,
+										      99900 9910 5355 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 105760 9900 5355,
+										      105760 9910 5355 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 99900 9900 5355,
+										      99900 9900 5800 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 99900 9900 5800,
+										      105760 9900 5800 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 105760 9900 5800,
+										      105760 9900 5355 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 105760 9900 5355,
+										      99900 9900 5355 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 99900 9910 5355,
+										      99900 9910 5800 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 99900 9910 5800,
+										      105760 9910 5800 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 105760 9910 5800,
+										      105760 9910 5355 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						},
+						Shape {
+						    appearance
+							Appearance {
+							    material USE _v2%1
+							}
+						    geometry
+							IndexedLineSet {
+							    coord
+								Coordinate {
+								    point	[ 105760 9910 5355,
+										      99900 9910 5355 ]
+								}
+							    coordIndex	[ 0, 1, -1 ]
+							}
+						}
+					    ]
+					}
+				    ]
+				}
+			    ]
+			},
+			Group {
+			    children [
+				Group {
+				},
+				Group {
+				}
+			    ]
+			}
+		    ]
+		}
+	    ]
+	}
+    ]
+}
+
