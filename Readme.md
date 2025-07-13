@@ -12,3 +12,7 @@ The data files come from two primary sources:
 
 The additional files are found in bug tracker using the script `getocctdata.tcl`
 located in `scripts`.
+
+Before adding any new file to the repo, it should be checked using command
+`testfile` available in OCCT DRAW, this is mainly to prevent duplicates and
+check that Unix-style (LF) end-of-lines are used for text files.
